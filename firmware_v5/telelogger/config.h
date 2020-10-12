@@ -53,6 +53,8 @@
 #define WIFI_PASSWORD "PASSWORD"
 // cellular network settings
 #define CELL_APN ""
+#define APN_USERNAME ""
+#define APN_PASSWORD ""
 // Freematics Hub server settings
 #define SERVER_HOST "hub.freematics.com"
 #define SERVER_PROTOCOL PROTOCOL_UDP
